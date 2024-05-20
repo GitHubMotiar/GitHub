@@ -38,5 +38,18 @@ Blackquotes can contain multople Markdown formatted elements. Not all elements c
 > - Let's try another example
 > 
  *Everything* is just going according to the pl**an**.
-> 
+>
+## Lists
+you can organize ordered and unordre lists.
+## Ordered Lists
+To create an ordered list, add line items with numbers followed by periods. The numbers don't have to be in the numerical order, but the list should start with the number one.
+1. First item
+2. Second Item
+3. Third item
+## Unordered List
+To create unordered list, add dashes ` - `, asterisks, `*`, or plus sign `+`. 
+- first item
+  - second item
+    - third item
+
 
