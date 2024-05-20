@@ -51,5 +51,13 @@ To create unordered list, add dashes ` - `, asterisks, `*`, or plus sign `+`.
 - first item
   - second item
     - third item
-
+## Code Blocks
+Code Blocks are normally indented four space or one tab. When they're in a list, indent them eight space or two tabs.
+1. Open a file 
+2. Find the following code block on line 21:
+        <html>
+            <head>
+                <title>test</title>
+            </head>
+3. Update the title to mach the name of your website.
 
